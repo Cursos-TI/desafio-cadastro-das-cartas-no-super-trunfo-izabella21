@@ -31,7 +31,7 @@ int main() {
     printf("Digite a quantidade de pontos turísticos: \n");
     scanf("%d", &pontoturisticos);
 
-    // Impressão dos valores corretamente formatados
+    
     printf("\n---- DADOS CADASTRADOS ----\n");
     printf("Estado: %s", estado);
     printf("Código da carta: %s", codcarta);
